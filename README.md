@@ -1,3 +1,6 @@
+
+             iOS Image Grid Assignment
+
 1. Image Grid: Implement a 3-column square image grid. Images should be center-cropped for consistency.
 
 2. Image Loading: Implement asynchronous image loading using URLSession with provided URL.
